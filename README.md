@@ -60,10 +60,3 @@ and ask natural-language questions about the data and suitable machine learning 
   - Reframes business questions as data science problems
   - Proposes suitable ML models and workflows
 
-## Setup
-
-1. **Clone this repository**
-
-```bash
-git clone https://github.com/praneethsaireddy45/data-brain.git
-cd data-brain
